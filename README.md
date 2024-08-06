@@ -2,9 +2,9 @@ This repository showcases a sales analysis project conducted for a coffee shop u
 
 Tools Used:
 
-Microsoft Excel
-PivotTables
-PivotCharts
-Slicers
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Slicers
 
 #Excel #DataAnalysis #SalesAnalysis #CoffeeShop #PivotTables #PivotCharts #ExcelDashboard
